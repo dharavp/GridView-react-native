@@ -10,31 +10,31 @@ class Example extends Component {
         var dataVar= [
                 {
                 	id: 0,
-                    text: 'Left Handed R1'
+                    text: 'Java'
                 }, {
                 	id: 1,
-                    text: 'Right Handed R1'
+                    text: 'C'
                 }, {
                 	id: 2,
-                    text: 'Left Handed R2'
+                    text: 'C++'
                 }, {
                 	id: 3,
-                    text: 'Right Handed R2'
+                    text: 'Android'
                 }, {
                 	id: 4,
-                    text: 'Left Handed R3'
+                    text: 'Python'
                 }, {
                 	id: 5,
-                    text: 'Right Handed R3'
+                    text: '.NET'
                 }, {
                 	id: 6,
-                    text: 'Left Handed R4'
+                    text: 'HTML'
                 }, {
                 	id: 7,
-                    text: 'Right Handed R4'
+                    text: 'CSS'
                 }, {
                 	id: 8,
-                    text: 'Left Handed R5'
+                    text: 'PHP'
                 }];
         this.state = {
                  data: dataVar,
